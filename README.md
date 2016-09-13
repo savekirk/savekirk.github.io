@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-# savekirk.github.io
-=======
+# Personal website
+
 
